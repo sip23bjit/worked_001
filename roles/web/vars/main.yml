@@ -1,0 +1,4 @@
+---
+httpd_port: 80
+mysql_port: 3306
+repository: https://github.com/sip23bjit/ansible_final_testing_003.git
